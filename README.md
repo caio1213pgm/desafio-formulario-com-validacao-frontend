@@ -88,7 +88,7 @@ Os critérios de avaliação incluirão:
 
 ## Exemplo de E-mail:
 
-**Assunto:** Entrega + Desafios[03] + João Silva
+**Assunto:** Entrega + Desafios[03] + Caio Fabio
 
 ---
 
@@ -96,19 +96,19 @@ Olá,
 
 Segue abaixo a entrega do Desafio 03 para o processo seletivo do Frontend Fusion.
 
-**Nome:** João Silva  
-**Link do GitHub:** [https://github.com/joaosilva](https://github.com/joaosilva)  
-**Link do LinkedIn:** [https://linkedin.com/in/joaosilva](https://linkedin.com/in/joaosilva)  
-**Data de Início:** 01/09/2024  
-**Data de Entrega:** 20/09/2024  
-**Link do GitHub com o Código:** [https://github.com/joaosilva/desafio03](https://github.com/joaosilva/desafio03)  
-**Link do Deploy:** [https://joaosilva.netlify.app](https://joaosilva.netlify.app)  
-**Link da Postagem no LinkedIn:** [https://linkedin.com/posts/joaosilva/desafio-03](https://linkedin.com/posts/joaosilva/desafio-03)
+**Nome:** Caio Fabio  
+**Link do GitHub:** [https://github.com/caio1213pgm](https://github.com/caio1213pgm)  
+**Link do LinkedIn:** [https://linkedin.com/in/caiofcfx00](https://linkedin.com/in/caiofcfx00)  
+**Data de Início:** 05/06/2025  
+**Data de Entrega:** 06/06/2025  
+**Link do GitHub com o Código:** [https://github.com/caio1213pgm/desafio-formulario-com-validacao-frontend](https://github.com/caio1213pgm/desafio-formulario-com-validacao-frontend)  
+**Link do Deploy:** [https://formsfusion.vercel.app/](https://formsfusion.vercel.app/)  
+**Link da Postagem no LinkedIn:** [https://www.linkedin.com/feed/update/urn:li:activity:7337919574501158912/](https://www.linkedin.com/feed/update/urn:li:activity:7337919574501158912/)
 
 Agradeço a oportunidade e estou à disposição para qualquer dúvida.
 
 Atenciosamente,  
-João Silva
+Caio Fabio
 
 ---
 
